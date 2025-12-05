@@ -4,7 +4,7 @@ A scalable, production-grade **AI-powered chat application** built using
 **Spring Boot Microservices, API Gateway, Eureka Service Registry, JWT Authentication,  
 WebSockets, and a modern React Frontend.**
 
-This repository serves as the **main hub** that connects all five sub-repositories.
+## **This repository serves as the **main hub** that connects all five sub-repositories.**
 
 ---
 
